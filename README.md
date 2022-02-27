@@ -1,16 +1,23 @@
-### Hi there 👋
+## **내가 사용하고 싶은 기능들을 내 손으로 개발하고 싶은, 하루하루 성장하기 위해 노력하는 개발자 지망생입니다.**
+---
+### :star2: Education & Experience
+- KAIST(2017-)
+  - Undergraduate **Computer Science**
+- SPARCS(2019-)
+  - Project Manager & Backend Developer for NewAra, KAIST's online student community
+- Naver(2020-2022)
+  - Backend Software Engineer Intern at Naver Maps
 
-<!--
-**jessyoon14/jessyoon14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :seedling: I'm currently learning
+- Django
+- Docker
+- Flutter
 
-Here are some ideas to get you started:
+### :computer: My Tech Stack
+- Programming Languages: Python, Java, Scala, Kotlin, Rust
+- Backend Framework: Django
+- Infrastructures: Docker, AWS
+- Mobile: Flutter
+- Database: MySQL,PostgreSQL, SQLAlchemy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessyoon14&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
