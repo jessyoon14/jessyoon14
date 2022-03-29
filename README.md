@@ -2,7 +2,7 @@
 
 I’m a newly graduating software engineer who loves working with people who share the same vision to bring a great product to life. 
 
-I love the logic and abstraction of backend development, and also enjoy the process of product planning to provide better functionality for its users.
+I love the logic and abstraction of backend development, and also enjoy the process of product planning to provide better functionalities for users.
 
 ---
 ### :star2: Education & Experience
